@@ -1,4 +1,4 @@
-# AWS Expert - DynamoDB Lesson
+# AWS Expert - DynamoDB Class
 
 Python Code scripts to AWS DynamoDB.
 
