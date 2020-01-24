@@ -1,6 +1,6 @@
 # aws-expert-python-dynamodb
 
-Python Code Sample to use scripts to connect on AWS dynamodb
+Python Code Sample to use scripts to connect on AWS DynamoDB
 
 First Setup 
 
